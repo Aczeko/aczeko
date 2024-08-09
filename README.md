@@ -4,7 +4,7 @@
 
 # 💫 About Me:
 🎨 I have a keen eye for design and love exploring new styling techniques<br>🌱 I’m currently learning Laravel Framework, JavaScript and React<br>📓 I regularly write articles on [Amica](https://www.amica.li)
-<br><br>✨ Check out my newest blog post: [A quick Guide to Figma](https://www.amica.li/posts/a-quick-guide-to-figma)
+<br><br>✨ Check out my newest blog post: [Getting Started with Livewire in Laravel](https://www.amica.li/posts/getting-started-with-livewire-in-laravel)
 
 
 ## 🌐 Socials:
