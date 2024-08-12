@@ -4,7 +4,7 @@
 
 # 💫 About Me:
 🎨 I have a keen eye for design and love exploring new styling techniques<br>🌱 I’m currently learning Laravel Framework, JavaScript and React<br>📓 I regularly write articles on [Amica](https://www.amica.li)
-<br><br>✨ Check out my newest blog post: [Getting Started with Livewire in Laravel](https://www.amica.li/posts/getting-started-with-livewire-in-laravel)
+<br><br>✨ Check out my newest blog post: [Data Transfer Objects (DTO) in Laravel](https://www.amica.li/posts/data-transfer-objects-dto-in-laravel)
 
 
 ## 🌐 Socials:
