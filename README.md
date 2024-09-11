@@ -4,7 +4,7 @@
 
 # 💫 About Me:
 🎨 I have a keen eye for design and love exploring new styling techniques<br>🌱 I’m currently learning Laravel Framework, JavaScript and React<br>📓 I regularly write articles on [Amica](https://www.amica.li)
-<br><br>✨ Check out my newest blog post: [Data Transfer Objects (DTO) in Laravel](https://www.amica.li/posts/data-transfer-objects-dto-in-laravel)
+<br><br>✨ Check out my newest blog post: [How to write Emails with Laravel](https://www.amica.li/posts/how-to-write-emails-with-laravel)
 
 
 ## 🌐 Socials:
